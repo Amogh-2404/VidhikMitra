@@ -1,0 +1,10 @@
+Flask
+pytesseract
+Pillow
+PyJWT
+pdf2image
+Flask-Limiter
+duckduckgo-search
+transformers
+torch
+google-auth
